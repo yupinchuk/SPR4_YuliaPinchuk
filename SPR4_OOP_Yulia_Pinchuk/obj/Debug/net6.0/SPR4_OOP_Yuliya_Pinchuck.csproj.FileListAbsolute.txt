@@ -1,0 +1,15 @@
+E:\Study\PROGRAMING\SPR4_OOP_Yuliya_Pinchuck\SPR4_OOP_Yuliya_Pinchuck\bin\Debug\net6.0\SPR4_OOP_Yuliya_Pinchuck.exe
+E:\Study\PROGRAMING\SPR4_OOP_Yuliya_Pinchuck\SPR4_OOP_Yuliya_Pinchuck\bin\Debug\net6.0\SPR4_OOP_Yuliya_Pinchuck.deps.json
+E:\Study\PROGRAMING\SPR4_OOP_Yuliya_Pinchuck\SPR4_OOP_Yuliya_Pinchuck\bin\Debug\net6.0\SPR4_OOP_Yuliya_Pinchuck.runtimeconfig.json
+E:\Study\PROGRAMING\SPR4_OOP_Yuliya_Pinchuck\SPR4_OOP_Yuliya_Pinchuck\bin\Debug\net6.0\SPR4_OOP_Yuliya_Pinchuck.dll
+E:\Study\PROGRAMING\SPR4_OOP_Yuliya_Pinchuck\SPR4_OOP_Yuliya_Pinchuck\bin\Debug\net6.0\SPR4_OOP_Yuliya_Pinchuck.pdb
+E:\Study\PROGRAMING\SPR4_OOP_Yuliya_Pinchuck\SPR4_OOP_Yuliya_Pinchuck\obj\Debug\net6.0\SPR4_OOP_Yuliya_Pinchuck.csproj.AssemblyReference.cache
+E:\Study\PROGRAMING\SPR4_OOP_Yuliya_Pinchuck\SPR4_OOP_Yuliya_Pinchuck\obj\Debug\net6.0\SPR4_OOP_Yuliya_Pinchuck.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\PROGRAMING\SPR4_OOP_Yuliya_Pinchuck\SPR4_OOP_Yuliya_Pinchuck\obj\Debug\net6.0\SPR4_OOP_Yuliya_Pinchuck.AssemblyInfoInputs.cache
+E:\Study\PROGRAMING\SPR4_OOP_Yuliya_Pinchuck\SPR4_OOP_Yuliya_Pinchuck\obj\Debug\net6.0\SPR4_OOP_Yuliya_Pinchuck.AssemblyInfo.cs
+E:\Study\PROGRAMING\SPR4_OOP_Yuliya_Pinchuck\SPR4_OOP_Yuliya_Pinchuck\obj\Debug\net6.0\SPR4_OOP_Yuliya_Pinchuck.csproj.CoreCompileInputs.cache
+E:\Study\PROGRAMING\SPR4_OOP_Yuliya_Pinchuck\SPR4_OOP_Yuliya_Pinchuck\obj\Debug\net6.0\SPR4_OOP_Yuliya_Pinchuck.dll
+E:\Study\PROGRAMING\SPR4_OOP_Yuliya_Pinchuck\SPR4_OOP_Yuliya_Pinchuck\obj\Debug\net6.0\refint\SPR4_OOP_Yuliya_Pinchuck.dll
+E:\Study\PROGRAMING\SPR4_OOP_Yuliya_Pinchuck\SPR4_OOP_Yuliya_Pinchuck\obj\Debug\net6.0\SPR4_OOP_Yuliya_Pinchuck.pdb
+E:\Study\PROGRAMING\SPR4_OOP_Yuliya_Pinchuck\SPR4_OOP_Yuliya_Pinchuck\obj\Debug\net6.0\SPR4_OOP_Yuliya_Pinchuck.genruntimeconfig.cache
+E:\Study\PROGRAMING\SPR4_OOP_Yuliya_Pinchuck\SPR4_OOP_Yuliya_Pinchuck\obj\Debug\net6.0\ref\SPR4_OOP_Yuliya_Pinchuck.dll
